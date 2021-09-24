@@ -1,1 +1,53 @@
-# car_price_prediction
+# Car Price Prediction
+
+Determining whether the listed price of a used car is a challenging task, due to the many factors that drive a used vehicle’s price on the market. The focus of this project is developing machine learning models that can accurately predict the price of a used car based on its features, in order to make informed purchases.
+
+# Problem Statement
+
+Based on the factors given in the dataset need to predict the prices of car. It is a Regression problem.
+
+# Source of Dataset:
+
+The dataset is taken from Kaggle.Below is the link for the dataset:
+https://www.kaggle.com/avikasliwal/used-cars-price-prediction
+
+# Perfomance Metric
+
+1)R2_ score
+
+2)MSE
+
+In this MSE is reduced as much as possible as it is Regression problem And Ideal MSE is 0.
+
+# Machine Learning algorithms 
+
+1). Linear Regression
+
+2). RandomForest Regression
+
+3). DecisionTree Regression
+
+4). ExtraTree Regression
+
+5). KNeighborsRegressor
+
+# Car Price Prediction with Machine Learning
+
+One of the main areas of research in machine learning is the prediction of the price of used cars. This dataset consists information about used car listed on cardekho.com. It has 9 columns each columns consists information about specific features like Car_Name: Car names gives information about car company.
+
+Year: In which year the brand new car has been purchased.
+
+selling_price: Its about the price at which car is being sold and this will be *target label *for further prediction of price.
+
+km_driven : It is the number of kilometre car has been driven.
+
+Fuel_Type: This feature the fuel type of car (CNG , petrol,diesel etc).
+
+seller_type: This tells whether the seller is individual or a dealer.
+
+transmission: This feature gives information about the whether the car is automatic and manual.
+
+owner: It is number of previous owner of the car.
+
+Present_price :This will be about current showroom price of the car.
+
