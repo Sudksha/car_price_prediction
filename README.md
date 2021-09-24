@@ -51,3 +51,33 @@ owner: It is number of previous owner of the car.
 
 Present_price :This will be about current showroom price of the car.
 
+# Data Analysis
+
+![image](https://user-images.githubusercontent.com/74994512/134683295-f6f5ab25-4934-4a83-9364-0fa2f4e149b0.png)
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/74994512/134684418-06f0c5d2-dc0c-4e50-bb56-ea1d0c980e4e.png)
+
+# Observation:
+
+*   city appears to be most favoured car amongst all other car names.
+  
+*   Number of petrol fueled type cars are more compared to diesel and CNG.
+  
+*   Number of cars selled by Dealers are more than Indiviuals.
+
+*   Manually Transmitted cars are heigher.
+
+![image](https://user-images.githubusercontent.com/74994512/134684781-b6f37f85-28a9-45e3-a22e-da74927dcd60.png)
+
+
+
+
+  Most of the cars have owned by 0 owners.
+
+
+
+
