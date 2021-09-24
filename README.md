@@ -76,8 +76,28 @@ Present_price :This will be about current showroom price of the car.
 
 
 
-  Most of the cars have owned by 0 owners.
 
+  Most of the cars have owned by 0 owners.
+  
+  # After training all the models we have got good results with RandomForest Regressor.
+  
+  # Feature Importance
+  
+  ![image](https://user-images.githubusercontent.com/74994512/134687914-e04272b6-189e-4bdf-a806-923a904948c0.png).
+  
+  
+  
+  
+  
+  Reference: 
+  
+  https://www.kaggle.com/cagkanbay/car-price-prediction
+  
+  https://www.appliedaicourse.com/
+
+Deployed:
+
+The model is deployed in AWS Platform.
 
 
 
