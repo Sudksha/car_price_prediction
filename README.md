@@ -99,6 +99,7 @@ Present_price :This will be about current showroom price of the car.
 Deployed:
 
 The model is deployed in AWS Platform.
+Link: http://ec2-18-118-103-34.us-east-2.compute.amazonaws.com:5050/
 
 
 
